@@ -10,7 +10,7 @@
     justify-content: space-between;
     padding: 5px 150;
     font-size: 30px;
-}
+} 
 .cabecalhoListaItem{ 
    display:inline-block;
    margin: 0 20px;
@@ -18,22 +18,22 @@
 }
 
 .sobreImagem{
-           width:
+           width:50%
 }
 
 .sobre{
-        background-image: linear gradient(#FFFFFF. #FFFFFF);
-        color: orange;
+        background-image: linear-gradient(#9e0000, #000000);
+        color: rgb(255, 255, 255);
         display: flex;
         justify-content: center;
        align-items: center;
-       padding: 370px 0;
+       padding: 80px 0px;
 }
 
 .sobreConteudo{
-        width:
+        width:30%
 }
 
 .sobreTitulo{
-         padding: 20px 30px;
+         padding: 30px 50px;
 }
